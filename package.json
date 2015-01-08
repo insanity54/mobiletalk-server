@@ -1,0 +1,24 @@
+{
+  "name": "mobiletalk-server",
+  "version": "0.0.0",
+  "description": "backend for the mobiletalk website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/insanity54/mobiletalk-server.git"
+  },
+  "author": "Chris Grimmett <chris@grimtech.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/insanity54/mobiletalk-server/issues"
+  },
+  "dependencies": {
+    "mailgun-send": "0.0.3",
+    "nconf": "~0.7.1",
+    "mailchimp": "~1.1.0"
+  }
+}
