@@ -19,6 +19,7 @@
   "dependencies": {
     "mailgun-send": "0.0.3",
     "nconf": "~0.7.1",
-    "mailchimp": "~1.1.0"
+    "mailchimp": "~1.1.0",
+    "q": "~1.1.2"
   }
 }
