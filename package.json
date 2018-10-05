@@ -17,9 +17,9 @@
     "url": "https://github.com/insanity54/mobiletalk-server/issues"
   },
   "dependencies": {
-    "mailgun-send": "0.0.3",
-    "nconf": "~0.7.1",
-    "mailchimp": "~1.1.0",
-    "q": "~1.1.2"
+    "mailgun-send": "1.0.2",
+    "nconf": "~0.10.0",
+    "mailchimp": "~1.2.0",
+    "q": "~1.5.1"
   }
 }
